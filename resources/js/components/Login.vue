@@ -49,7 +49,7 @@
                                     </button>
 
                                    
-                                        <a class="btn btn-link" href='http://localhost:8000/password/reset'>
+                                        <a class="btn btn-link" href='https://www.bomdebolso.online/password/reset'>
                                             Esqueci a senha.
                                         </a>
                                     
@@ -80,7 +80,7 @@
                 //console.log(this.email, this.password)
                 //let url = 'https://f1f1-177-50-134-86.ngrok.io/login'
  
-                let url = 'http://localhost:8000/api/login'
+                let url = 'https://www.bomdebolso.online/api/login'
                 let configuracao = {
                     method: 'post',
                     //essa new URLSearchParams só serve para urlencoding, para o FormaData seria outra

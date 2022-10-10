@@ -338,7 +338,7 @@
 
         data(){
             return{
-                urlBase: 'http://localhost:8000/api/v1/produto',
+                urlBase: 'https://www.bomdebolso.online/api/v1/produto',
                 urlPaginacao: '',
                 urlFiltro: '',
                 codigoProduto:'',

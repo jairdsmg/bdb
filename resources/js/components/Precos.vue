@@ -409,7 +409,7 @@ import axios from 'axios';
 
         data(){
             return{
-                urlBase: 'http://localhost:8000/api/v1/preco',
+                urlBase: 'https://www.bomdebolso.online/api/v1/preco',
                 urlPaginacao: '',
                 urlFiltro: '',
                 loja1: '',
